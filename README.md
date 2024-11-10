@@ -80,4 +80,6 @@ If the python script succeeds, the combined YAML file is created with the name `
 
 - Translate `setup.bat` and `render.bat` into Bash scripts if I ever use this on Linux
 - Custom template maybe
- - In experience, make the job title first and company second
+ - In work experience, put the job title first and company second
+ - Certification template to properly put the issuer?
+ - Different formatting for skills?

@@ -1,0 +1,15 @@
+certifications:
+  - name: 'Microsoft Certified: Azure Fundamentals'
+    date: 2024-11
+    location: Microsoft # putting issuer in location field for now 
+  - name: Qualified Information Security Professional (QISP)
+    date: 2023-12
+    location: AISP
+  - name: Organizational Systems Security Analyst (OSSA)
+    date: 2023-10
+    location: THINKSECURE
+
+# using 'normal entry'
+# - name: OSCP
+#   date: 2022-11
+#   location: OffSec # Can use for issuer

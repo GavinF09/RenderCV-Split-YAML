@@ -1,0 +1,21 @@
+projects:
+  - name: Automated Pentesting Tool
+    highlights:
+      - Developed a custom C2 framework on a compromised remote system and evade Elastic Stack's security features
+      - Set up Elastic Stack to monitor and alert for malicious activities on target hosts 
+  - name: Linux Server Configuration and Hardening
+    highlights:
+      - Configured and secured a Linux web server, including firewall and network configuration, and SELinux permissions
+      - Identify and remediate vulnerabilities planted in the server
+  - name: [Python System Monitoring Tool](https://github.com/GallvinF/Python-System-Monitor)
+    highlights: 
+      - Python web application using Flask to monitor and display system resources
+  - name: '[SP Games Website](https://github.com/GallvinF/SP_Games)'
+    highlights:
+      - Assignment website using HTML, Bootstrap, Express and MySQL to create an online store
+
+# using 'normal entry'
+# - name: Some Project
+#   highlights:
+#     - Developed a web application with **React** and **Django**.
+#     - Implemented a **RESTful API**

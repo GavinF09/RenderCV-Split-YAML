@@ -1,0 +1,17 @@
+education:
+  - institution: Singaore Polytechnic
+    area: Infocomm Security Management
+    degree: Diploma # apears well with engineeringresumes (X in Y area), cant say for others
+    start_date: 2022-04
+    end_date: 2025-03
+    highlights:
+      - 'GPA: 3.87/4.0 (5 Sems)'
+      - Awarded certificate of Data and Analysis for completing related electives
+
+  # - institution: University of Pennsylvania
+  #   area: Computer Science
+  #   degree: BS # apears well with engineeringresumes, cant say for others
+  #   start_date: 2000-09
+  #   end_date: 2005-05
+  #   highlights:
+  #     - 'GPA: 3.9/4.0 ([a link to somewhere](https://example.com))'
