@@ -7,7 +7,7 @@ projects:
     highlights:
       - Configured and secured a Linux web server, including firewall and network configuration, and SELinux permissions
       - Identify and remediate vulnerabilities planted in the server
-  - name: [Python System Monitoring Tool](https://github.com/GallvinF/Python-System-Monitor)
+  - name: '[Python System Monitoring Tool](https://github.com/GallvinF/Python-System-Monitor)'
     highlights: 
       - Python web application using Flask to monitor and display system resources
   - name: '[SP Games Website](https://github.com/GallvinF/SP_Games)'

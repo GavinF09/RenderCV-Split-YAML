@@ -1,7 +1,11 @@
 # CUSTOM
 markdown/
 rendercv_output/
+engineeringresumes/
 rendercvResume.yaml
+# YAML files in root directory but not subdirectories
+/*.yaml
+!/*/*.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

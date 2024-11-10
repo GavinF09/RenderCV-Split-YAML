@@ -70,6 +70,10 @@ However, what you **must** do (aside from adding content) is edit `order.txt` in
 
 (Footnote: For this reason, the python script used to combine all the files does not use PyYAML, as it does not preserve the order and dumps the YAML file in alphabatical order)
 
+Other things to note when editing:
+- You can format most fields with markdown syntax
+- If you are using potentially special characters (e.g links in markdown), add single quotes to tell YAML it is a string
+
 ### 3. Rendering the Resume 
 
 Simply run `render.bat` and check if there are any errors. This script runs two commands: `combine_yaml.py` to combine the seperate YAML files into one, and the command for RenderCV to generate the resume.
@@ -80,6 +84,6 @@ If the python script succeeds, the combined YAML file is created with the name `
 
 - Translate `setup.bat` and `render.bat` into Bash scripts if I ever use this on Linux
 - Custom template maybe
- - In work experience, put the job title first and company second
- - Certification template to properly put the issuer?
- - Different formatting for skills?
+  - In work experience, put the job title first and company second
+  - Certification template to properly put the issuer?
+  - Different formatting for skills?

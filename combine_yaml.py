@@ -17,7 +17,6 @@ def main():
     design = load_configs("design.yaml")
     locale_catalog = load_configs("locale_catalog.yaml")
 
-
     # getting the list of files in the sections folder
     with open("./data_files_yaml/sections/order.txt", 'r') as fn:
         contentFiles = [f.strip() for f in fn.readlines()]
@@ -28,7 +27,7 @@ def main():
         cv["cv"]["sections"].update(contentData)
         print(f"Loaded {file} to the CV")
 
-    print(cv["cv"]["sections"])
+    # print(cv["cv"]["sections"])
     combinedYaml = {**cv, **design, **locale_catalog}
 
     # write to file
