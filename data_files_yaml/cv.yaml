@@ -8,10 +8,10 @@ cv:
     - network: LinkedIn
       username: foo-geng-hao
     - network: GitHub
-      username: GallvinF
+      username: GavinF09
   sections: # in the cv folder
     '':
-      - "Detail-oriented and self-directed Infocomm Security Management student, set to complete studies in Febuary 2025. Passionate in cybersecurity and IT, and constantly expanding my knowledge in these areas. Looking for an opportunity to apply my skills and experience in cybersecurity and development."
+      - "Detail-oriented and self-directed Infocomm Security Management student, set to complete studies in February 2025. Passionate about cybersecurity and IT, and constantly expanding my knowledge in these areas. Looking for an opportunity to apply my skills and experience in cybersecurity and development."
 #  in format like it would appear here
 #     education: 
 #       institution: NUS (cope)

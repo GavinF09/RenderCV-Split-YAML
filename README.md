@@ -87,3 +87,4 @@ If the python script succeeds, the combined YAML file is created with the name `
   - In work experience, put the job title first and company second
   - Certification template to properly put the issuer?
   - Different formatting for skills?
+  - A profile section with no section header?
