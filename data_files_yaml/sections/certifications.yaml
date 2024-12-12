@@ -4,10 +4,10 @@ certifications:
     location: Microsoft # putting issuer in location field for now 
   - name: Qualified Information Security Professional (QISP)
     date: 2023-12
-    location: AISP
+    location: AiSP
   - name: Organizational Systems Security Analyst (OSSA)
     date: 2023-10
-    location: THINKSECURE
+    location: ThinkSECURE
 
 # using 'normal entry'
 # - name: OSCP

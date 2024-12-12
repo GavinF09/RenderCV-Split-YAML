@@ -1,13 +1,15 @@
 experience:
   - company: Argentra Solutions Pte. Ltd.
     position: Associate Systems Engineer
-    # location: TX, USA
+    # location: Singapore
     start_date: 2024-09
     end_date: 2025-02
     highlights:
-      - Contributed to scripting and implementation of automation of company processes such as laptop provisioning, reducing human error and time spent
-      - Deployed and configured log monitoring and alerting through the Elastic Stack 
-      - Auditing and reviewing company procedures and systems to achieve ISO 27001 compliance
+      - Improved auditing and visibility on company systems by implementing log and metric collection on 16 critical servers and 11 ESXi hosts using the Elastic Stack
+      - Improving company compliance towards ISO 27001 by reviewing and documenting company procedures and hardware
+      - Automating processes and tasks performed by staff, resulting in a 70% reduction in time spent provisioning laptops
+      - Troubleshooting and resolving technical issues in company servers, networks, and endpoints 
+      - Provisioning and managing virtual machines 
 
   # - company: Some Company
   #   position: Software Engineer

@@ -1,11 +1,16 @@
 skills:
-  - label: Programming & Scripting 
-    details: Python, JavaScript, Go, Powershell, Batch
+  - label: Programming Languages
+    details: Python, JavaScript, Go
   - label: Cybersecurity 
-    details: Linux Administration, Active Directory, Penetration Testing, Malware Analysis, SIEM
+    details: Penetration Testing, Server Hardening, SIEM, PKI, Malware Analysis, Digital Forensics
+  - label: Systems Administration
+    details: Linux Administration, Active Directory, Windows Server, Virtualization, Powershell, Bash
+    # Networking, Batch
   - label: Technologies & Tools
-    details: Docker, Elastic Stack (ELK), VMWare
-  - label: Development
-    details: Secure Coding, Git, Front-end (HTML/CSS, Bootstrap), Back-end (Express, Flask), SQL
-  - label: Soft Skills
-    details: Willingness to Learn, Problem-Solving, Attention to Detail, Communication
+    details: Elastic Stack, Kali Linux, Git, VMWare ESXi, Docker
+  - label: Web Development
+    details: HTML/CSS, Bootstrap, ExpressJS, Flask, MySQL, Secure Coding
+  #- label: Soft Skills
+  #  details: Self-learning, Problem-Solving & Troubleshooting, Attention to Detail, Team Communication
+  # - label:
+  #   details: 

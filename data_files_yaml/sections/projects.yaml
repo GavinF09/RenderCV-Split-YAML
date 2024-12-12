@@ -1,18 +1,18 @@
 projects:
   - name: Automated Pentesting Tool
     highlights:
-      - Developed a custom C2 framework on a compromised remote system to evade Elastic Stack's security features
-      - Set up Elastic Stack to monitor and alert for malicious activities on target hosts 
+      - Developed a custom C2 framework with an agent to evade Elastic Stack's security features
+      - Set up Elastic Stack to monitor and alert malicious activities on target hosts 
   - name: Linux Server Configuration and Hardening
     highlights:
-      - Configured and secured a Linux web server, including firewall and network configuration, and SELinux permissions
+      - Configured and secured a Linux web server, including network configuration and SELinux permissions
       - Identify and remediate vulnerabilities planted in the server
-  - name: '[Python System Monitoring Tool](https://github.com/GavinF09/Python-System-Monitor)'
-    highlights: 
-      - Python web application using Flask to monitor and display system resources
   - name: '[SP Games Website](https://github.com/GavinF09/SP_Games)'
     highlights:
       - Assignment website using HTML, Bootstrap, Express, and MySQL to create an online store
+  - name: '[Python System Monitoring Tool](https://github.com/GavinF09/Python-System-Monitor)'
+    highlights: 
+      - Python web application using Flask to monitor and display system resources
 
 # using 'normal entry'
 # - name: Some Project

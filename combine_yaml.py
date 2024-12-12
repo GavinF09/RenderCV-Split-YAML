@@ -14,6 +14,8 @@ def load_configs(yamlConfig):
 def main(): 
     # getting 'main' sections
     cv = load_configs("cv.yaml")
+    if 'sections' not in cv["cv"]: 
+        cv["cv"]["sections"] = {}
     design = load_configs("design.yaml")
     locale_catalog = load_configs("locale_catalog.yaml")
 

@@ -1,17 +1,16 @@
 cv:
   name: Foo Geng Hao
   # location: Your Location
-  email: yourmail@gmail.com
-  phone: tel:+65-82345671
-  # website: https://yourwebsite.com/
+  email: [REDECTED]
+  phone: [REDECTED]
+  website: https://gavinf09.github.io/
   social_networks:
     - network: LinkedIn
       username: foo-geng-hao
     - network: GitHub
       username: GavinF09
-  sections: # in the cv folder
-    '':
-      - "Detail-oriented and self-directed Infocomm Security Management student, set to complete studies in February 2025. Passionate about cybersecurity and IT, and constantly expanding my knowledge in these areas. Looking for an opportunity to apply my skills and experience in cybersecurity and development."
+  # sections: # in the cv folder
+
 #  in format like it would appear here
 #     education: 
 #       institution: NUS (cope)
