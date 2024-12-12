@@ -1,8 +1,8 @@
-# RenderCV-Split-YAML
+# RenderCV-YAML-Merger
 
 [RenderCV](https://github.com/sinaatalay/rendercv) is a Python engine that takes a YAML file containing content and formatting options, and generate a PDF resume/CV with LaTeX and Jinja. It also generates other viewing format, such as HTML for spellcheckers. 
 
-This scripts I am making here is mainly to allow me to split the different section of the YAML file (cv, design, locale_catalog) into different files. The content sections are also seperated into distint YAML files (e.g education.yaml, experience.yaml) to make it neater to update and manage. 
+This scripts I am making here is mainly to allow me to split the different section of the YAML file (cv, design, locale_catalog) into different files which will be merged together on render. The content sections are also seperated into distint YAML files (e.g education.yaml, experience.yaml) to make it neater to update and manage. 
 
 ## Usage
 
